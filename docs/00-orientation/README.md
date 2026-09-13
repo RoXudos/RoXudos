@@ -11,3 +11,5 @@ Start here. Do not skip this folder.
 | [04-glossary.md](04-glossary.md) | Shared language for the whole project |
 | [05-decisions-log.md](05-decisions-log.md) | Locked decisions and the rules for changing them |
 | [06-definition-of-done.md](06-definition-of-done.md) | When a step, module, or release is actually finished |
+| [07-zero-to-production-sequence.md](07-zero-to-production-sequence.md) | Numbered path from company setup to the first live event |
+| [08-control-operator-one-pager.md](08-control-operator-one-pager.md) | What to hand an operator on the day |

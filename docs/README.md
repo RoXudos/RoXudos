@@ -6,14 +6,15 @@ What this is: one operational platform for planning, controlling, running, and r
 
 This folder is the project bible. It is written so a founder, a future developer, a hired team, or an AI coding agent can take the product from zero to production without inventing a second plan.
 
-If you only read four files, read these:
+If you only read five files, read these:
 
 1. [00-orientation/00-read-this-first.md](00-orientation/00-read-this-first.md)
-2. [00-orientation/02-repo-and-workspace-recommendation.md](00-orientation/02-repo-and-workspace-recommendation.md)
-3. [03-architecture/01-recommended-stack.md](03-architecture/01-recommended-stack.md)
-4. [01-product/06-first-production-release.md](01-product/06-first-production-release.md)
+2. [00-orientation/07-zero-to-production-sequence.md](00-orientation/07-zero-to-production-sequence.md)
+3. [00-orientation/02-repo-and-workspace-recommendation.md](00-orientation/02-repo-and-workspace-recommendation.md)
+4. [03-architecture/01-recommended-stack.md](03-architecture/01-recommended-stack.md)
+5. [01-product/06-first-production-release.md](01-product/06-first-production-release.md)
 
-Then follow the numbered folders in order.
+Then follow the numbered folders in order. The sequence file is the full step list from company setup to the first live event.
 
 ---
 
